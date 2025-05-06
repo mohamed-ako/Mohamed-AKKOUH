@@ -25,6 +25,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 
 **Back-End & Database:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white&style=flat)
@@ -32,12 +34,19 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-E74430?logo=laravel&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white&style=flat)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
+![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-FF0000?logo=oracle&logoColor=white&style=flat)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=JSON%20web%20tokens&logoColor=orange&style=flat)
 
 **Other Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Apache](https://img.shields.io/badge/-Apache-CB2138?logo=apache&logoColor=white&style=flat)
+![Canva](https://img.shields.io/badge/-Canva-00C48D?logo=canva&logoColor=white&style=flat)
 
 ---
 
