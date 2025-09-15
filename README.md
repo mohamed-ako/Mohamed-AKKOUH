@@ -87,19 +87,22 @@ Passionate about creating **scalable web applications, e-commerce platforms, and
 
 ## 💼 Professional Experience  
 
-- **2025 – Present | Province of Al Hoceima**  
-  *IT & Digital Services* — managing digital platforms, databases, and internal IT systems.  
+- **2025 – Present | Working at Province of Al Hoceima**  
+  *IT & Digital Services — Providing general IT and digital assistance for internal operations.*
 
-- **2024 – 2025 | Final Year Project (SUPMTI)**  
+- **2025 | Coffee Shop POS System.**
+  *Full-stack Point of Sale system with secure authentication and real-time sales analytics. (React.js, Node.js, Express.js, SQLite3)*
+  
+- **2025 | Final Year Project (SUPMTI)**  
   *Hybrid Movie Recommender* — Flask, React, MongoDB (TF-IDF, cosine similarity).  
 
-- **2023 – 2024 | E-commerce Store (You Clothes)**  
+- **2024 | E-commerce Store (You Clothes)**  
   Built a full **dropshipping MERN stack platform** with scraping & product management.  
 
-- **2023 – 2024 | Final Year Project (ISTA)**  
+- **2024 | Final Year Project (ISTA)**  
   Developed a **real estate platform** for renting/buying properties (Laravel, React.js, MySQL).  
 
-- **2023 – 2024 | Ali Allach Blood Filter Center**  
+- **2024 | Ali Allach Blood Filter Center**  
   Created an official **website for a health clinic** (React.js + Express.js).  
 
 ---
