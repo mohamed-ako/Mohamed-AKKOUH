@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Mohamed Akkouh  
+# 👋 Hi, I'm Mohamed AKKOUH  
 
 ### 🚀 Full-Stack Web Developer | IT & Digital Services  
 
 📍 Al-Hoceima, Morocco | 📧 [mohamedakkouh07@gmail.com](mailto:mohamedakkouh07@gmail.com) | 📱 +212 625051615  
-🔗 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/mohamed-ako)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-akkouh/) | [GitHub](https://github.com/mohamed-ako)  
 
 ---
 
@@ -12,12 +12,17 @@ Full-Stack Web Developer with strong expertise in **frontend, backend, and datab
 Passionate about creating **scalable web applications, e-commerce platforms, and AI-driven tools**, with a focus on **user experience, performance, and clean code**.  
 
 ---
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-ako&show_icons=true&theme=radical)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ako&layout=compact&theme=radical)  
+
+---
 
 ## 🎓 Education  
 
-- **Bachelor’s in IT** — SUPMTI, Rabat (2024 - 2025)  
-- **Specialized Technician Diploma (Web Full-Stack Development)** — ISTA, Al-Hoceima (2022 - 2024)  
-- **Bachelor’s in Private Law** — Abdelmalek Essaâdi University (2017 - 2020)  
+- **Bachelor’s in IT** — SUPMTI, Rabat (2024 - 2025)      | 🔗 [See More](https://heyzine.com/flip-book/5004e42a19.html)
+- **Specialized Technician Diploma (Web Full-Stack Development)** — ISTA, Al-Hoceima (2022 - 2024)      | 🔗 [See More](https://heyzine.com/flip-book/df50b79359.html)
+- **Bachelor’s in Private Law** — Abdelmalek Essaâdi University (2017 - 2020)      | 🔗 [See More]()
 - **High School Diploma (Natural Sciences)** — Imam Malik High School, Al-Hoceima (2021 - 2022)  
 - **High School Diploma (Humanities)** — Imam Malik High School, Al-Hoceima (2016 - 2017)  
 
@@ -25,9 +30,9 @@ Passionate about creating **scalable web applications, e-commerce platforms, and
 
 ## 🏆 Certifications  
 
-- **Foundation of Digital Marketing** — Udacity (2025)  
-- **Entrepreneurial Innovation: From Idea to Project** — ISTA (2024)  
-- **Full-Stack Web Development Certificate** — Udacity (2021)  
+- **Foundation of Digital Marketing** — Udacity (2025)      | 🔗 [See More](https://www.udacity.com/certificate/e/3c39414e-b7bb-11ef-9f72-a781fcea76e5)
+- **Entrepreneurial Innovation: From Idea to Project** — ISTA (2024)      | 🔗 [See More]()
+- **Full-Stack Web Development Certificate** — Udacity (2021)      | 🔗 [See More](https://www.udacity.com/certificate/e/54c21d08-84f2-11eb-8f52-7fa5cc20e902)
 
 ---
 
@@ -93,19 +98,13 @@ Passionate about creating **scalable web applications, e-commerce platforms, and
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-ako&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ako&layout=compact&theme=radical)  
-
----
 
 ## 🌍 Languages  
 
 - 🗣️ Arabic (Native)  
 - 🗣️ Tarifit (Native)  
-- 🌍 English (Intermediate, B1)  
-- 🌍 French (Beginner, A1)  
+- 🌍 English (Intermediate)  
+- 🌍 French (Per-ieginner)  
 
 ---
 
