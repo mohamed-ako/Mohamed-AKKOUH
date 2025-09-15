@@ -71,7 +71,11 @@ Passionate about creating **scalable web applications, e-commerce platforms, and
 
 **Cloud & DevOps:** 
 
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=azure&logoColor=white&style=flat) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) **Other Tools:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![Active Directory](https://img.shields.io/badge/-Active_Directory-0078D4?logo=microsoft&logoColor=white&style=flat) ![Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white&style=flat) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=azure&logoColor=white&style=flat) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) 
+
+**Other Tools:** 
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![Active Directory](https://img.shields.io/badge/-Active_Directory-0078D4?logo=microsoft&logoColor=white&style=flat) ![Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white&style=flat) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
 
 ---
 
