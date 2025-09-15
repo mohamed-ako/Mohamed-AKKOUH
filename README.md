@@ -44,7 +44,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Apache](https://img.shields.io/badge/-Apache-CB2138?logo=apache&logoColor=white&style=flat)
 ![Canva](https://img.shields.io/badge/-Canva-00C48D?logo=canva&logoColor=white&style=flat)
 
