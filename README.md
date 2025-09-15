@@ -1,41 +1,16 @@
 # Hi 👋, I'm Mohamed Akkouh
 
-### Full-Stack Web Developer & IT Management  
+### Full-Stack Web Developer
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-mohamed--ako-181717?style=flat&logo=github&logoColor=white)](https://github.com/mohamed-ako)  
-[![Email](https://img.shields.io/badge/Email-mohamedakkouh07@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mohamedakkouh07@gmail.com)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-mohamed--ako-181717?style=flat&logo=github&logoColor=white)](https://github.com/mohamed-ako)   |   [![Email](https://img.shields.io/badge/Email-mohamedakkouh07@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mohamedakkouh07@gmail.com)
 
 ---
 
 ## 📌 About Me
-- 🎓 Bachelor’s in IT (Distance learning) — **SUPMTI, Rabat**
+- 🎓 Bachelor’s in IT — **SUPMTI, Rabat**
 - 📘 Specialized Technician Diploma in **Web Full-Stack Development** — ISTA, Al-Hoceima
 - 💼 Experience building **e-commerce**, **real estate**, and **clinic** websites
 
----
-
-## 💼 Notable Projects
-- **☕ Coffee Shop POS System**  
-  Full-stack POS system (React, Express.js, SQLite3) with authentication & analytics.  
-  🔗 [View on GitHub](https://github.com/mohamed-ako/SmartRif-Cafe)
-
-- **🎬 Intelligent Movie Recommender**  
-  Hybrid movie recommender (Flask, React, MongoDB, TF-IDF + cosine similarity).  
-  🔗 [View on GitHub](https://github.com/mohamed-ako/Intelligent-Movie-Recommendation-Website)
-
-- **🛒 Dropshipping E-commerce Store**  
-  MERN stack dropshipping store with integrated scraping & product management.  
-  🔗 View Project → (coming soon)
-
-- **🏠 Real Estate Platform**  
-  Property rental/sales platform (Laravel, React.js, MySQL).  
-  🔗 View Project → (coming soon)
-
-- **🏥 Ali Allach Blood Filter Center Website**  
-  Website for a health organization (React.js + Express.js).  
-  🔗 View Project → (coming soon)
-
----
 
 ## 🛠️ Technologies & Tools
 
@@ -85,21 +60,43 @@
 
 ---
 
-## 📌 Education
-- 🎓 **Bachelor’s in IT** — SUPMTI, Rabat (2024)  
-- 🎓 **Specialized Technician Diploma (Web Full-Stack)** — ISTA Al-Hoceima (2022 - 2024)  
-- 🎓 **Bachelor's in Private Law** — Abdelmalek Essaâdi University (2017 - 2020)  
+## 💼 Notable Projects
+- **☕ Coffee Shop POS System**  
+  Full-stack POS system (React, Express.js, SQLite3) with authentication & analytics.  
+  🔗 [View on GitHub](https://github.com/mohamed-ako/SmartRif-Cafe)
 
+- **🎬 Intelligent Movie Recommender**  
+  Hybrid movie recommender (Flask, React, MongoDB, TF-IDF + cosine similarity).  
+  🔗 [View on GitHub](https://github.com/mohamed-ako/Intelligent-Movie-Recommendation-Website)
+
+- **🛒 Dropshipping E-commerce Store**  
+  MERN stack dropshipping store with integrated scraping & product management.  
+  🔗 [View on GitHub](https://github.com/mohamed-ako/SheinMoroocco)
+
+- **🏠 Real Estate Platform**  
+  Property rental/sales platform (Laravel, React.js, MySQL).  
+  🔗 [View on GitHub](https://github.com/mohamed-ako/darek_v2)
+
+- **🏥 Ali Allach Blood Filter Center Website**  
+  Website for a health organization (React.js + Express.js).  
+  🔗 [View on GitHub](https://github.com/mohamed-ako/centre_nephrologie)
+
+---
+
+## 📌 Education
+- 🎓 **Bachelor’s in IT** — SUPMTI, Rabat (2024 - 2025)    | 🔗 [See More](https://heyzine.com/flip-book/5004e42a19.html)
+- 🎓 **Specialized Technician Diploma (Web Full-Stack)** — ISTA Al-Hoceima (2022 - 2024)    | 🔗 [See More](https://heyzine.com/flip-book/df50b79359.html)
+- 🎓 **Bachelor's in Private Law** — Abdelmalek Essaâdi University (2017 - 2020)    | 🔗 [See More]()
 ### 🎖️ Certifications
-- **Foundation of Digital Marketing** — Udacity (2025)  
-- **Entrepreneurial Innovation: From Idea to Project** — ISTA (2024)  
-- **Full-Stack Web Development Certificate** — Udacity (2021)  
+- **Foundation of Digital Marketing** — Udacity (2025)    | 🔗 [See More](https://www.udacity.com/certificate/e/3c39414e-b7bb-11ef-9f72-a781fcea76e5)
+- **Entrepreneurial Innovation: From Idea to Project** — ISTA (2024)    | 🔗 [See More]()
+- **Full-Stack Web Development Certificate** — Udacity (2021)    | 🔗 [See More](https://www.udacity.com/certificate/e/54c21d08-84f2-11eb-8f52-7fa5cc20e902)
 
 ---
 
 ## 🌐 Languages
-- 🗣️ Arabic (Native), Tarifit (Native)  
-- 🌍 English (Intermediate), French (Beginner)  
+- 🗣️ Arabic (Native)                    | Tarifit (Native)  
+- 🌍 English (Intermediate)    | 🔗 [See More]()     | French (Beginner)  
 
 ---
 
